@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AreaCode15
+- 👋 Hi, I’m Rémi Teulade of @AreaCode
 - 👀 I’m interested in Website / WebApp / App Mobile
 - 🌱 I’m currently learning Vue JS
 - 💞️ I’m looking to collaborate on Website project, App Mobile project
